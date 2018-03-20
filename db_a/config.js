@@ -9,10 +9,7 @@
         { "name": "百度", "url": "www.baidu.com" },
         { "name": "google", "url": "www.google.com" }
     ],
-    "biaoqian": [
-        { "name": "手机配件", "color": "#8A9B0F" },
-        { "name": "google", "color": "#036564" }
-    ],
+    "biaoqian": ["手机配件", "手机", "苹果Apple", "SumSung", "Sony", "华维荣耀", "手机","三星","索尼","华维荣耀","三星","索尼"],
     "guanggao": [
         { "name": "广告1", "img": "www.baidu.com", "descr": "描述..." },
         { "name": "广告2", "img": "www.baidu.com", "descr": "描述..." }
