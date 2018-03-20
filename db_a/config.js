@@ -5,6 +5,7 @@
     "tuijian": [1, 2, 3, 4, 5],
     "dianji": [1, 2, 3, 4, 5],
     "zuixin": [1, 2, 3, 4, 5],
+    "tuwentuijian": [1, 2, 3, 4, 5],
     "youqinglianjie": [
         { "name": "百度", "url": "www.baidu.com" },
         { "name": "google", "url": "www.google.com" }
