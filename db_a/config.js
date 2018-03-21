@@ -1,7 +1,14 @@
 ﻿var config = {
     "title": "",
     "index": [1, 2, 3, 4, 5,6,7],
-    "lunbo": [1, 2, 3, 4, 5],
+    "lunbo": [
+        { "img": "images/1m.jpg", "alt": "酷站代码整理", "text": "图片1更详细的描述文字..." },
+        { "img": "images/2m.jpg", "alt": "酷站代码特效大全", "text": "图片2更详细的描述文字..." },
+        { "img": "images/3m.jpg", "alt": "酷站代码特效", "text": "图片3更详细的描述文字..." },
+        { "img": "images/4m.jpg", "alt": "酷站代码素材", "text": "图片4更详细的描述文字..." },
+        { "img": "images/5m.jpg", "alt": "酷站代码教程", "text": "图片5更详细的描述文字..." }
+    ],
+    "lunbo2": [1, 2],
     "tuijian": [1, 2, 3, 4, 5],
     "dianji": [1, 2, 3, 4, 5],
     "zuixin": [1, 2, 3, 4, 5],
