@@ -33,7 +33,7 @@
         "search": { "url": "/", "img": "images/search.png" },
         "nav": [
             { "url": "/", "text": "网站首页" },
-            { "url": "/", "text": "新闻中心" },
+            { "url": "list.html", "text": "新闻中心" },
             { "url": "/", "text": "产品中心" },
             { "url": "/", "text": "关于我们" },
             { "url": "/", "text": "联系我们" }
