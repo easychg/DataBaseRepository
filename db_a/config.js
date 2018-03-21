@@ -1,6 +1,6 @@
 ﻿var config = {
     "title": "",
-    "index": [1, 2, 3, 4, 5,6,7],
+    "index": [1, 2, 3, 4, 5, 6, 7],
     "lunbo": [
         { "img": "images/1m.jpg", "alt": "酷站代码整理", "text": "图片1更详细的描述文字..." },
         { "img": "images/2m.jpg", "alt": "酷站代码特效大全", "text": "图片2更详细的描述文字..." },
@@ -17,9 +17,10 @@
         { "name": "百度", "url": "www.baidu.com" },
         { "name": "google", "url": "www.google.com" }
     ],
-    "biaoqian": ["手机配件", "手机", "苹果Apple", "SumSung", "Sony", "华维荣耀", "手机","三星","索尼","华维荣耀","三星","索尼"],
+    "biaoqian": ["手机配件", "手机", "苹果Apple", "SumSung", "Sony", "华维荣耀", "手机", "三星", "索尼", "华维荣耀", "三星", "索尼"],
     "guanggao": [
         { "name": "广告1", "img": "images/ad300x100.jpg", "descr": "描述..." },
         { "name": "广告2", "img": "images/03.jpg", "descr": "描述..." }
-    ]
+    ],
+    "footer": { "copyright": " Copyright 2018", "img": "images/ftlogo.png", "descr": "时尚设计，国内最优化的模板设计平台!" },
 }
