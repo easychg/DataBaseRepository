@@ -23,4 +23,19 @@
         { "name": "广告2", "img": "images/03.jpg", "descr": "描述..." }
     ],
     "footer": { "copyright": " Copyright 2018", "img": "images/ftlogo.png", "descr": "时尚设计，国内最优化的模板设计平台!" },
+    "header": {
+        "top": [
+            { "url": "/", "text": "Home" },
+            { "url": "/", "text": "官方微博" },
+            { "url": "/", "text": "关于我们" }
+        ],
+        "logo": "images/logo.png",
+        "search": { "url": "/", "img": "images/search.png" },
+        "nav": [
+            { "url": "/", "text": "网站首页" },
+            { "url": "/", "text": "新闻中心" },
+            { "url": "/", "text": "关于我们" },
+            { "url": "/", "text": "联系我们" }
+        ]
+    }
 }
